@@ -1,2 +1,2 @@
 # vp1_nodejs
-for vp1 js webpack build 
+vp1にてwebpackを利用したnpmビルド用のnodejsコンテナイメージ
